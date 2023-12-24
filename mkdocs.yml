@@ -1,404 +1,404 @@
 # [Info]
-site_name: ÎâµÂÖ¾µÄ¸öÈËÍøÕ¾ # ×óÉÏ½Ç±êÌâ
-site_url: https://dezhi0730.github.io
-site_author: ÎâµÂÖ¾
-site_description: ÎâµÂÖ¾µÄ¸öÈËÍøÕ¾
+site_name: å´å¾·å¿—çš„ä¸ªäººç½‘ç«™ # å·¦ä¸Šè§’æ ‡é¢˜
+# site_url: https://dezhi0730.github.io
+# site_author: å´å¾·å¿—
+# site_description: å´å¾·å¿—çš„ä¸ªäººç½‘ç«™
 
-# [Navigtion]
-nav:
-  - ½²¸å:
-    - LECTURE/index.md 
-    - Linux:
-      - Linux½²×ù: LECTURE/Linux/linux.md
-      - ÃüÁîĞĞÈëÃÅ¾«¼ò°æ: LECTURE/Linux/commands-concise.md
-    - Markdown:
-      - Markdown½²×ù: LECTURE/Markdown/markdown.md
-      - VSCode¼°²å¼ş°²×°: LECTURE/Markdown/vscode-extension.md
-    - Git:
-      - Git: LECTURE/Git/git.md
-      - GitÀı×Ó: LECTURE/Git/git-demos.md
-      - GitºÏ×÷: LECTURE/Git/git-teamwork.md
-      - Windows°²×°Git: LECTURE/Git/windows-install.md
-    - Ó¦ÓÃ¿ª·¢Éè¼Æ: LECTURE/App/app-design.md
-    - ÔÚmacOSÉÏÓÃVSCodeĞ´C++´úÂë:
-      - 0 ½éÉÜ: LECTURE/vscode-cpp/0_about.md
-      - 1 Ç°ÑÔºÍ¿Î³ÌËµÃ÷: LECTURE/vscode-cpp/1_Ç°ÑÔºÍ¿Î³ÌËµÃ÷.md
-      - 2 ÈÏÊ¶macOSµÄÎÄ¼şÏµÍ³: LECTURE/vscode-cpp/2_ÈÏÊ¶macOSµÄÎÄ¼şÏµÍ³.md
-      - 3 ÈÏÊ¶³ÌĞò: LECTURE/vscode-cpp/3_ÈÏÊ¶³ÌĞò.md
-      - 4 ÈÏÊ¶ÖÕ¶ËºÍshell: LECTURE/vscode-cpp/4_ÈÏÊ¶ÖÕ¶ËºÍshell.md
-      - 5 ¿ªÆôVSCodeµÄ´óÃÅ: LECTURE/vscode-cpp/5_¿ªÆôVSCodeµÄ´óÃÅ.md
-      - 6 VSCode´úÂëÔËĞĞ×Ô¶¯»¯: LECTURE/vscode-cpp/6_VSCode´úÂëÔËĞĞ×Ô¶¯»¯.md
-      - 7 ÓÃVSCodeµ÷ÊÔCpp´úÂë: LECTURE/vscode-cpp/7_ÓÃVSCodeµ÷ÊÔCpp´úÂë.md
-      - 8 ¿Î³Ì»Ø¹Ë: LECTURE/vscode-cpp/8_¿Î³Ì»Ø¹Ë.md
-      - ÆäËû: LECTURE/vscode-cpp/9_others.md
-      - ¼«ËÙ°æ: LECTURE/vscode-cpp/10_¼«ËÙ°æ.md
-      - ²¹³ä: LECTURE/vscode-cpp/11_²¹³ä.md
-    - Ó¢ÓïÒô±ê½ÌÑ§: LECTURE/English/phonetic-symbol.md
-    - Ä§·½:
-      - LECTURE/Cube/basic.md
-  - ²©¿Í:
-    - BLOG/index.md
-    - BLOG/others.md
-    - Apple:
-      - BLOG/Apple/mac-recommend.md
-      - BLOG/Apple/ipad-recommend.md
-    - macOS:
-      - BLOG/macOS/tree.md
-      - BLOG/macOS/zoom.md
-      - BLOG/macOS/sharing-mac-android.md
-      - BLOG/macOS/mad.md
-      - BLOG/macOS/stream.md
-      - BLOG/macOS/intel-windows.md
-    - Markdown:
-      - BLOG/Markdown/grammars.md
-      - BLOG/Markdown/mkdocs-site.md
-      - BLOG/Markdown/mdbook-site.md
-      - BLOG/Markdown/github-pages.md
-    - Linux:
-      - BLOG/Linux/vim.md
-      - BLOG/Linux/tmux.md
-      - BLOG/Linux/unix.md
-      - BLOG/Linux/kernel-compile.md
-      - BLOG/Linux/pi-start.md
-    - OS:
-      - BLOG/OS/fork-exec-spawn.md
-      - BLOG/OS/fork-example.md
-    - ¼ÆËã»úÍøÂç:
-      - BLOG/Network/learning.md
-      - BLOG/Network/nouns.md
-    - ÊıÑ§:
-      - BLOG/Math/latex.md
-      - BLOG/Math/linear.md
-      - BLOG/Math/taylor.md
-      - BLOG/Math/max-pr.md
-      - BLOG/Math/sympy-det.md
-    - ÎïÀí:
-      - BLOG/Physics/guass-stokes.md
-      - BLOG/Physics/electromagnetics.md
-    - µç×Ó¹¤³Ì:
-      - BLOG/ElectronicEngineering/verilog-simulation.md
-      - BLOG/ElectronicEngineering/storage.md
-      - BLOG/ElectronicEngineering/rlc.md
-      - BLOG/ElectronicEngineering/yosys-try.md
-    - FPGA:
-      - BLOG/Fpga/compare.md
-    - ÈÕÓï:
-      - BLOG/Japanese/notes-2202-2203.md
-      - BLOG/Japanese/notes-2204.md
-      - BLOG/Japanese/notes-2205.md
-      - BLOG/Japanese/verb.md
-      - BLOG/Japanese/adj.md
-      - BLOG/Japanese/noun.md
-      - BLOG/Japanese/grammar.md
-      - BLOG/Japanese/essays.md
-      - BLOG/Japanese/tantanmen-translation.md
-      - BLOG/Japanese/chinese.md
-    - ÓÎÏ·:
-      - BLOG/Game/what-is-game.md
-      - BLOG/Game/2d-vs-3d.md
-      - BLOG/Game/controller.md
-    - ÆäËû:
-      - BLOG/Others/video-info.md
-      - BLOG/Others/sony-extend.md
-  - ¿ª·¢:
-    - DEV/index.md
-    - DEV/interests.md
-    - React:
-      - DEV/React/h5.md
-      - DEV/React/notes.md
-      - DEV/React/vite.md
-    - Three:
-      - DEV/Three/setup.md
-    - WebGPU:
-      - DEV/Webgpu/notes.md
-      - DEV/Webgpu/first-triangle.md
-    - SwiftUI:
-      - DEV/SwiftUI/data-essentials.md
-    - Flutter:
-      - DEV/Flutter/commands.md
-      - DEV/Flutter/template.md
-      - DEV/Flutter/dart-lint.md
-      - DEV/Flutter/state-management.md
-      - DEV/Flutter/web-consideration.md
-    - ±à³Ì:
-      - DEV/Programming/recommendation.md
-      - DEV/Programming/my-feelings.md
-      - C:
-        - DEV/Programming/C/review.md
-        - DEV/Programming/C/final.md
-        - DEV/Programming/C/stdout-fflush.md
-        - DEV/Programming/C/watch-matrix.md
-      - Python:
-        - DEV/Programming/Python/copy.md
-        - DEV/Programming/Python/numpy-overview.md
-      - Swift:
-        - DEV/Programming/Swift/learning-resources.md
-        - DEV/Programming/Swift/notes-basic-grammars.md
-        - DEV/Programming/Swift/notes-language-guide.md
-        - DEV/Programming/Swift/notes-useful-foundation.md
-        - DEV/Programming/Swift/lecture-homework.md
-        - DEV/Programming/Swift/parallel-for.md
-      - Dart:
-        - DEV/Programming/Dart/learning.md
-      - Cpp:
-        - DEV/Programming/Cpp/1.md
-        - DEV/Programming/Cpp/2.md
-        - DEV/Programming/Cpp/3.md
-        - DEV/Programming/Cpp/4.md
-        - DEV/Programming/Cpp/5.md
-        - DEV/Programming/Cpp/6.md
-        - DEV/Programming/Cpp/7.md
-        - DEV/Programming/Cpp/8.md
-        - DEV/Programming/Cpp/google-format.md
-        - DEV/Programming/Cpp/class-properties.md
-        - DEV/Programming/Cpp/list.md
-        - DEV/Programming/Cpp/stack.md
-        - DEV/Programming/Cpp/final.md
-        - DEV/Programming/Cpp/oj.md
-  - ÑĞ¾¿:
-    - RESEARCH/index.md
-    - CG:
-      - RESEARCH/CG/games101.md
-      - RESEARCH/CG/tiger-book.md
-      - RESEARCH/CG/blender-donut.md
-      - RESEARCH/CG/blender-manual.md
-      - RESEARCH/CG/games203.md
-      - RESEARCH/CG/games105.md
-      - RESEARCH/CG/format.md
-      - RESEARCH/CG/format-usdz.md
-    - GPU:
-      - RESEARCH/Gpu/gpu.md
-      - RESEARCH/Gpu/cuda.md
-  - ¶ş´ÎÔª:
-    - 2/index.md
-    - ·¬:
-      - 2/Anime/anime-rating.md
-      - 2/Anime/anime-rating-extraordinary.md
-      - 2/Anime/anime-rating-great.md
-      - 2/Anime/anime-rating-good.md
-    - Ï²»¶µÄ:
-      - 2/Sukina/pictures.md
-      - 2/Sukina/kawaii.md
-      - 2/Sukina/kawaii-koe.md
-      - 2/Sukina/artists.md
-      - 2/Sukina/vtuber.md
-      - 2/Sukina/voice.md
-    - Galgame:
-      - 2/Galgame/ddlc.md
-    - Ô­Éñ:
-      - 2/Games/Genshin/characters.md
-      - 2/Games/Genshin/graphic-quality.md
-      - 2/Games/Genshin/controller.md
-      - 2/Games/Genshin/food.md
-    - Apex:
-      - 2/Games/Apex/controller-aim.md
-      - 2/Games/Apex/controller-settings.md
-      - 2/Games/Apex/zhidong-settings.md
-      - 2/Games/Apex/key-mouse-settings.md
-      - 2/Games/Apex/characters.md
-      - 2/Games/Apex/17.md
-  - ×ªÔØ:
-    - REPRODUCE/index.md
-    - Ñİ½²:
-      - REPRODUCE/speech/tim-cook-at-duke.md
-    - ÕªÂ¼:
-      - REPRODUCE/book/harford-occupation-choice.md
-      - REPRODUCE/book/the-long-view.md
-    - ÎÄÕÂ:
-      - REPRODUCE/article/proses.md
-      - REPRODUCE/article/my-best-teacher.md
-    - ²©¿Í:
-      - REPRODUCE/blog/how-to-ask-questions-the-smart-way.md
-    - ¸è´Ê:
-      - REPRODUCE/lyrics/watagumo.md
-    - Ê«:
-      - REPRODUCE/poem/poems.md
-  - ÍøÕ¾:
-    - WEBSITE/index.md # ·Ã¿Í´ò¿ªÍøÕ¾µÚÒ»¸ö¿´µ½µÄÊÇ docs/index.md£¨»á±¨´í The following pages exist in the docs directory, but are not included in the "nav" configuration: index.md ²»Òª½ô£©  Èç¹û·Ã¿ÍÖ®ºóÏëÒªÖØĞÂ¿´µ½Õâ¸ö½çÃæ  ¿ÉÒÔÔÚ docs/WEBSITE/index.md ÕÒµ½
-    - WEBSITE/build.md
-    - WEBSITE/help.md
-    - WEBSITE/test.md
-  - Ëæ±Ê:
-    - ESSAY/index.md
-    - Ëæ±Ê¼Ç:
-      - ESSAY/Jottings/2311.md
-      - ESSAY/Jottings/2310.md
-      - ESSAY/Jottings/2309.md
-      - ESSAY/Jottings/2308.md
-      - ESSAY/Jottings/2307.md
-      - ESSAY/Jottings/2306.md
-      - ESSAY/Jottings/2305.md
-      - ESSAY/Jottings/2304.md
-      - ESSAY/Jottings/2303.md
-      - ESSAY/Jottings/2302.md
-      - ESSAY/Jottings/2301.md
-      - ESSAY/Jottings/2211-2212.md
-      - ESSAY/Jottings/2209-2210.md
-      - ESSAY/Jottings/2207-2208.md
-      - ESSAY/Jottings/2205-2206.md
-      - ESSAY/Jottings/2203-2204.md
-      - ESSAY/Jottings/2201-2202.md
-      - ESSAY/Jottings/2111-2112.md
-      - ESSAY/Jottings/2109-2110.md
-      - ESSAY/Jottings/2107-2108.md
-      - ESSAY/Jottings/2105-2106.md
-      - ESSAY/Jottings/2103-2104.md
-      - ESSAY/Jottings/2101-2102.md
-      - ESSAY/Jottings/2011-2012.md
-      - ESSAY/Jottings/2009-2010.md
-      - ESSAY/Jottings/2007-2008.md
-      - ESSAY/Jottings/2005-2006.md
-      - ESSAY/Jottings/2003-2004.md
-      - ESSAY/Jottings/2001-2002.md
-      - ESSAY/Jottings/0.md
-      - ESSAY/Jottings/1906-1912.md
-      - ESSAY/Jottings/1807-1812.md
-      - ESSAY/Jottings/1801-1806.md
-      - ESSAY/Jottings/17.md
-      - ESSAY/Jottings/16.md
-    - ÎÄÕÂ:
-      - ESSAY/Articles/231211-life-targets.md
-      - ESSAY/Articles/231018-research.md
-      - ESSAY/Articles/230629-account-book.md
-      - ESSAY/Articles/230403-buy-phone.md
-      - ESSAY/Articles/230305-cccc-memory.md
-      - ESSAY/Articles/221227-expressvpn-refund.md
-      - ESSAY/Articles/220921-upgrade-introduction.md
-      - ESSAY/Articles/220715-macbook-story.md
-      - ESSAY/Articles/220624-gratitude.md
-      - ESSAY/Articles/220621-bytedance-interview.md
-      - ESSAY/Articles/220612-reply.md
-      - ESSAY/Articles/2205-good-games.md
-      - ESSAY/Articles/220506-stop-jianshu.md
-      - ESSAY/Articles/220505-library-thu.md
-      - ESSAY/Articles/220415-interestx2.md
-      - ESSAY/Articles/220410-job-discussion.md
-      - ESSAY/Articles/220410-independence.md
-      - ESSAY/Articles/220408-appreciating-girl.md
-      - ESSAY/Articles/220402-languages-comparision.md
-      - ESSAY/Articles/220324-thoughts-996.md
-      - ESSAY/Articles/220107-want-to-be.md
-      - ESSAY/Articles/211104-emotion-bad.md
-      - ESSAY/Articles/210928-apple-recruitment-share.md
-      - ESSAY/Articles/2109-covid-influence.md
-      - ESSAY/Articles/2109-group-clear.md
-      - ESSAY/Articles/210820-cccc-event.md
-      - ESSAY/Articles/210801-affection-3.md
-      - ESSAY/Articles/210519-app-dev-experience.md
-      - ESSAY/Articles/210516-apple-education-address.md
-      - ESSAY/Articles/210502-extend-your-way.md
-      - ESSAY/Articles/201119-a-new-review.md
-      - ESSAY/Articles/201213-look-at-yourself.md
-      - ESSAY/Articles/200916-my-pursue.md
-      - ESSAY/Articles/200713-sutuo-and-me.md
-      - ESSAY/Articles/200703-talk-with-junior.md
-      - ESSAY/Articles/200607-gaokao-memory.md
-      - ESSAY/Articles/200604-small-goal.md
-      - ESSAY/Articles/200602-tennkinoko.md
-      - ESSAY/Articles/200506-why.md
-      - ESSAY/Articles/2005-travel.md
-      - ESSAY/Articles/190730-tangyan-rd-23.md
-      - ESSAY/Articles/190723-feelings-in-6-days.md
-      - ESSAY/Articles/190707-address-to-nonlocal-students.md
-      - ESSAY/Articles/190629-affection-2.md
-      - ESSAY/Articles/1905-non-intelligent.md
-      - ESSAY/Articles/1901-go-to-thu.md
-      - ESSAY/Articles/1811-do-it.md
-      - ESSAY/Articles/1808-ideality-and-reality.md
-      - ESSAY/Articles/1806-apply-thu.md
-      - ESSAY/Articles/18-tree.md
-      - ESSAY/Articles/18-what-i-love.md
-      - ESSAY/Articles/17-dream-2017.md
-      - ESSAY/Articles/14-affection-1.md
-  - ÎÒ:
-    - ME/index.md
-    - ME/introduction.md
-    - ME/profile.md
-    - ME/contact.md
-    - ME/account.md
-    - ME/description.md
-    - ME/ability.md
-    - ME/experience.md
-    - ME/thu-curriculum.md
-    - ME/thu-certificate.md
-    - ME/daily-necessities.md
-    - ME/girlfriend.md
-    - ME/support.md
+# # [Navigtion]
+# nav:
+#   - è®²ç¨¿:
+#     - LECTURE/index.md 
+#     - Linux:
+#       - Linuxè®²åº§: LECTURE/Linux/linux.md
+#       - å‘½ä»¤è¡Œå…¥é—¨ç²¾ç®€ç‰ˆ: LECTURE/Linux/commands-concise.md
+#     - Markdown:
+#       - Markdownè®²åº§: LECTURE/Markdown/markdown.md
+#       - VSCodeåŠæ’ä»¶å®‰è£…: LECTURE/Markdown/vscode-extension.md
+#     - Git:
+#       - Git: LECTURE/Git/git.md
+#       - Gitä¾‹å­: LECTURE/Git/git-demos.md
+#       - Gitåˆä½œ: LECTURE/Git/git-teamwork.md
+#       - Windowså®‰è£…Git: LECTURE/Git/windows-install.md
+#     - åº”ç”¨å¼€å‘è®¾è®¡: LECTURE/App/app-design.md
+#     - åœ¨macOSä¸Šç”¨VSCodeå†™C++ä»£ç :
+#       - 0 ä»‹ç»: LECTURE/vscode-cpp/0_about.md
+#       - 1 å‰è¨€å’Œè¯¾ç¨‹è¯´æ˜: LECTURE/vscode-cpp/1_å‰è¨€å’Œè¯¾ç¨‹è¯´æ˜.md
+#       - 2 è®¤è¯†macOSçš„æ–‡ä»¶ç³»ç»Ÿ: LECTURE/vscode-cpp/2_è®¤è¯†macOSçš„æ–‡ä»¶ç³»ç»Ÿ.md
+#       - 3 è®¤è¯†ç¨‹åº: LECTURE/vscode-cpp/3_è®¤è¯†ç¨‹åº.md
+#       - 4 è®¤è¯†ç»ˆç«¯å’Œshell: LECTURE/vscode-cpp/4_è®¤è¯†ç»ˆç«¯å’Œshell.md
+#       - 5 å¼€å¯VSCodeçš„å¤§é—¨: LECTURE/vscode-cpp/5_å¼€å¯VSCodeçš„å¤§é—¨.md
+#       - 6 VSCodeä»£ç è¿è¡Œè‡ªåŠ¨åŒ–: LECTURE/vscode-cpp/6_VSCodeä»£ç è¿è¡Œè‡ªåŠ¨åŒ–.md
+#       - 7 ç”¨VSCodeè°ƒè¯•Cppä»£ç : LECTURE/vscode-cpp/7_ç”¨VSCodeè°ƒè¯•Cppä»£ç .md
+#       - 8 è¯¾ç¨‹å›é¡¾: LECTURE/vscode-cpp/8_è¯¾ç¨‹å›é¡¾.md
+#       - å…¶ä»–: LECTURE/vscode-cpp/9_others.md
+#       - æé€Ÿç‰ˆ: LECTURE/vscode-cpp/10_æé€Ÿç‰ˆ.md
+#       - è¡¥å……: LECTURE/vscode-cpp/11_è¡¥å…….md
+#     - è‹±è¯­éŸ³æ ‡æ•™å­¦: LECTURE/English/phonetic-symbol.md
+#     - é­”æ–¹:
+#       - LECTURE/Cube/basic.md
+#   - åšå®¢:
+#     - BLOG/index.md
+#     - BLOG/others.md
+#     - Apple:
+#       - BLOG/Apple/mac-recommend.md
+#       - BLOG/Apple/ipad-recommend.md
+#     - macOS:
+#       - BLOG/macOS/tree.md
+#       - BLOG/macOS/zoom.md
+#       - BLOG/macOS/sharing-mac-android.md
+#       - BLOG/macOS/mad.md
+#       - BLOG/macOS/stream.md
+#       - BLOG/macOS/intel-windows.md
+#     - Markdown:
+#       - BLOG/Markdown/grammars.md
+#       - BLOG/Markdown/mkdocs-site.md
+#       - BLOG/Markdown/mdbook-site.md
+#       - BLOG/Markdown/github-pages.md
+#     - Linux:
+#       - BLOG/Linux/vim.md
+#       - BLOG/Linux/tmux.md
+#       - BLOG/Linux/unix.md
+#       - BLOG/Linux/kernel-compile.md
+#       - BLOG/Linux/pi-start.md
+#     - OS:
+#       - BLOG/OS/fork-exec-spawn.md
+#       - BLOG/OS/fork-example.md
+#     - è®¡ç®—æœºç½‘ç»œ:
+#       - BLOG/Network/learning.md
+#       - BLOG/Network/nouns.md
+#     - æ•°å­¦:
+#       - BLOG/Math/latex.md
+#       - BLOG/Math/linear.md
+#       - BLOG/Math/taylor.md
+#       - BLOG/Math/max-pr.md
+#       - BLOG/Math/sympy-det.md
+#     - ç‰©ç†:
+#       - BLOG/Physics/guass-stokes.md
+#       - BLOG/Physics/electromagnetics.md
+#     - ç”µå­å·¥ç¨‹:
+#       - BLOG/ElectronicEngineering/verilog-simulation.md
+#       - BLOG/ElectronicEngineering/storage.md
+#       - BLOG/ElectronicEngineering/rlc.md
+#       - BLOG/ElectronicEngineering/yosys-try.md
+#     - FPGA:
+#       - BLOG/Fpga/compare.md
+#     - æ—¥è¯­:
+#       - BLOG/Japanese/notes-2202-2203.md
+#       - BLOG/Japanese/notes-2204.md
+#       - BLOG/Japanese/notes-2205.md
+#       - BLOG/Japanese/verb.md
+#       - BLOG/Japanese/adj.md
+#       - BLOG/Japanese/noun.md
+#       - BLOG/Japanese/grammar.md
+#       - BLOG/Japanese/essays.md
+#       - BLOG/Japanese/tantanmen-translation.md
+#       - BLOG/Japanese/chinese.md
+#     - æ¸¸æˆ:
+#       - BLOG/Game/what-is-game.md
+#       - BLOG/Game/2d-vs-3d.md
+#       - BLOG/Game/controller.md
+#     - å…¶ä»–:
+#       - BLOG/Others/video-info.md
+#       - BLOG/Others/sony-extend.md
+#   - å¼€å‘:
+#     - DEV/index.md
+#     - DEV/interests.md
+#     - React:
+#       - DEV/React/h5.md
+#       - DEV/React/notes.md
+#       - DEV/React/vite.md
+#     - Three:
+#       - DEV/Three/setup.md
+#     - WebGPU:
+#       - DEV/Webgpu/notes.md
+#       - DEV/Webgpu/first-triangle.md
+#     - SwiftUI:
+#       - DEV/SwiftUI/data-essentials.md
+#     - Flutter:
+#       - DEV/Flutter/commands.md
+#       - DEV/Flutter/template.md
+#       - DEV/Flutter/dart-lint.md
+#       - DEV/Flutter/state-management.md
+#       - DEV/Flutter/web-consideration.md
+#     - ç¼–ç¨‹:
+#       - DEV/Programming/recommendation.md
+#       - DEV/Programming/my-feelings.md
+#       - C:
+#         - DEV/Programming/C/review.md
+#         - DEV/Programming/C/final.md
+#         - DEV/Programming/C/stdout-fflush.md
+#         - DEV/Programming/C/watch-matrix.md
+#       - Python:
+#         - DEV/Programming/Python/copy.md
+#         - DEV/Programming/Python/numpy-overview.md
+#       - Swift:
+#         - DEV/Programming/Swift/learning-resources.md
+#         - DEV/Programming/Swift/notes-basic-grammars.md
+#         - DEV/Programming/Swift/notes-language-guide.md
+#         - DEV/Programming/Swift/notes-useful-foundation.md
+#         - DEV/Programming/Swift/lecture-homework.md
+#         - DEV/Programming/Swift/parallel-for.md
+#       - Dart:
+#         - DEV/Programming/Dart/learning.md
+#       - Cpp:
+#         - DEV/Programming/Cpp/1.md
+#         - DEV/Programming/Cpp/2.md
+#         - DEV/Programming/Cpp/3.md
+#         - DEV/Programming/Cpp/4.md
+#         - DEV/Programming/Cpp/5.md
+#         - DEV/Programming/Cpp/6.md
+#         - DEV/Programming/Cpp/7.md
+#         - DEV/Programming/Cpp/8.md
+#         - DEV/Programming/Cpp/google-format.md
+#         - DEV/Programming/Cpp/class-properties.md
+#         - DEV/Programming/Cpp/list.md
+#         - DEV/Programming/Cpp/stack.md
+#         - DEV/Programming/Cpp/final.md
+#         - DEV/Programming/Cpp/oj.md
+#   - ç ”ç©¶:
+#     - RESEARCH/index.md
+#     - CG:
+#       - RESEARCH/CG/games101.md
+#       - RESEARCH/CG/tiger-book.md
+#       - RESEARCH/CG/blender-donut.md
+#       - RESEARCH/CG/blender-manual.md
+#       - RESEARCH/CG/games203.md
+#       - RESEARCH/CG/games105.md
+#       - RESEARCH/CG/format.md
+#       - RESEARCH/CG/format-usdz.md
+#     - GPU:
+#       - RESEARCH/Gpu/gpu.md
+#       - RESEARCH/Gpu/cuda.md
+#   - äºŒæ¬¡å…ƒ:
+#     - 2/index.md
+#     - ç•ª:
+#       - 2/Anime/anime-rating.md
+#       - 2/Anime/anime-rating-extraordinary.md
+#       - 2/Anime/anime-rating-great.md
+#       - 2/Anime/anime-rating-good.md
+#     - å–œæ¬¢çš„:
+#       - 2/Sukina/pictures.md
+#       - 2/Sukina/kawaii.md
+#       - 2/Sukina/kawaii-koe.md
+#       - 2/Sukina/artists.md
+#       - 2/Sukina/vtuber.md
+#       - 2/Sukina/voice.md
+#     - Galgame:
+#       - 2/Galgame/ddlc.md
+#     - åŸç¥:
+#       - 2/Games/Genshin/characters.md
+#       - 2/Games/Genshin/graphic-quality.md
+#       - 2/Games/Genshin/controller.md
+#       - 2/Games/Genshin/food.md
+#     - Apex:
+#       - 2/Games/Apex/controller-aim.md
+#       - 2/Games/Apex/controller-settings.md
+#       - 2/Games/Apex/zhidong-settings.md
+#       - 2/Games/Apex/key-mouse-settings.md
+#       - 2/Games/Apex/characters.md
+#       - 2/Games/Apex/17.md
+#   - è½¬è½½:
+#     - REPRODUCE/index.md
+#     - æ¼”è®²:
+#       - REPRODUCE/speech/tim-cook-at-duke.md
+#     - æ‘˜å½•:
+#       - REPRODUCE/book/harford-occupation-choice.md
+#       - REPRODUCE/book/the-long-view.md
+#     - æ–‡ç« :
+#       - REPRODUCE/article/proses.md
+#       - REPRODUCE/article/my-best-teacher.md
+#     - åšå®¢:
+#       - REPRODUCE/blog/how-to-ask-questions-the-smart-way.md
+#     - æ­Œè¯:
+#       - REPRODUCE/lyrics/watagumo.md
+#     - è¯—:
+#       - REPRODUCE/poem/poems.md
+#   - ç½‘ç«™:
+#     - WEBSITE/index.md # è®¿å®¢æ‰“å¼€ç½‘ç«™ç¬¬ä¸€ä¸ªçœ‹åˆ°çš„æ˜¯ docs/index.mdï¼ˆä¼šæŠ¥é”™ The following pages exist in the docs directory, but are not included in the "nav" configuration: index.md ä¸è¦ç´§ï¼‰  å¦‚æœè®¿å®¢ä¹‹åæƒ³è¦é‡æ–°çœ‹åˆ°è¿™ä¸ªç•Œé¢  å¯ä»¥åœ¨ docs/WEBSITE/index.md æ‰¾åˆ°
+#     - WEBSITE/build.md
+#     - WEBSITE/help.md
+#     - WEBSITE/test.md
+#   - éšç¬”:
+#     - ESSAY/index.md
+#     - éšç¬”è®°:
+#       - ESSAY/Jottings/2311.md
+#       - ESSAY/Jottings/2310.md
+#       - ESSAY/Jottings/2309.md
+#       - ESSAY/Jottings/2308.md
+#       - ESSAY/Jottings/2307.md
+#       - ESSAY/Jottings/2306.md
+#       - ESSAY/Jottings/2305.md
+#       - ESSAY/Jottings/2304.md
+#       - ESSAY/Jottings/2303.md
+#       - ESSAY/Jottings/2302.md
+#       - ESSAY/Jottings/2301.md
+#       - ESSAY/Jottings/2211-2212.md
+#       - ESSAY/Jottings/2209-2210.md
+#       - ESSAY/Jottings/2207-2208.md
+#       - ESSAY/Jottings/2205-2206.md
+#       - ESSAY/Jottings/2203-2204.md
+#       - ESSAY/Jottings/2201-2202.md
+#       - ESSAY/Jottings/2111-2112.md
+#       - ESSAY/Jottings/2109-2110.md
+#       - ESSAY/Jottings/2107-2108.md
+#       - ESSAY/Jottings/2105-2106.md
+#       - ESSAY/Jottings/2103-2104.md
+#       - ESSAY/Jottings/2101-2102.md
+#       - ESSAY/Jottings/2011-2012.md
+#       - ESSAY/Jottings/2009-2010.md
+#       - ESSAY/Jottings/2007-2008.md
+#       - ESSAY/Jottings/2005-2006.md
+#       - ESSAY/Jottings/2003-2004.md
+#       - ESSAY/Jottings/2001-2002.md
+#       - ESSAY/Jottings/0.md
+#       - ESSAY/Jottings/1906-1912.md
+#       - ESSAY/Jottings/1807-1812.md
+#       - ESSAY/Jottings/1801-1806.md
+#       - ESSAY/Jottings/17.md
+#       - ESSAY/Jottings/16.md
+#     - æ–‡ç« :
+#       - ESSAY/Articles/231211-life-targets.md
+#       - ESSAY/Articles/231018-research.md
+#       - ESSAY/Articles/230629-account-book.md
+#       - ESSAY/Articles/230403-buy-phone.md
+#       - ESSAY/Articles/230305-cccc-memory.md
+#       - ESSAY/Articles/221227-expressvpn-refund.md
+#       - ESSAY/Articles/220921-upgrade-introduction.md
+#       - ESSAY/Articles/220715-macbook-story.md
+#       - ESSAY/Articles/220624-gratitude.md
+#       - ESSAY/Articles/220621-bytedance-interview.md
+#       - ESSAY/Articles/220612-reply.md
+#       - ESSAY/Articles/2205-good-games.md
+#       - ESSAY/Articles/220506-stop-jianshu.md
+#       - ESSAY/Articles/220505-library-thu.md
+#       - ESSAY/Articles/220415-interestx2.md
+#       - ESSAY/Articles/220410-job-discussion.md
+#       - ESSAY/Articles/220410-independence.md
+#       - ESSAY/Articles/220408-appreciating-girl.md
+#       - ESSAY/Articles/220402-languages-comparision.md
+#       - ESSAY/Articles/220324-thoughts-996.md
+#       - ESSAY/Articles/220107-want-to-be.md
+#       - ESSAY/Articles/211104-emotion-bad.md
+#       - ESSAY/Articles/210928-apple-recruitment-share.md
+#       - ESSAY/Articles/2109-covid-influence.md
+#       - ESSAY/Articles/2109-group-clear.md
+#       - ESSAY/Articles/210820-cccc-event.md
+#       - ESSAY/Articles/210801-affection-3.md
+#       - ESSAY/Articles/210519-app-dev-experience.md
+#       - ESSAY/Articles/210516-apple-education-address.md
+#       - ESSAY/Articles/210502-extend-your-way.md
+#       - ESSAY/Articles/201119-a-new-review.md
+#       - ESSAY/Articles/201213-look-at-yourself.md
+#       - ESSAY/Articles/200916-my-pursue.md
+#       - ESSAY/Articles/200713-sutuo-and-me.md
+#       - ESSAY/Articles/200703-talk-with-junior.md
+#       - ESSAY/Articles/200607-gaokao-memory.md
+#       - ESSAY/Articles/200604-small-goal.md
+#       - ESSAY/Articles/200602-tennkinoko.md
+#       - ESSAY/Articles/200506-why.md
+#       - ESSAY/Articles/2005-travel.md
+#       - ESSAY/Articles/190730-tangyan-rd-23.md
+#       - ESSAY/Articles/190723-feelings-in-6-days.md
+#       - ESSAY/Articles/190707-address-to-nonlocal-students.md
+#       - ESSAY/Articles/190629-affection-2.md
+#       - ESSAY/Articles/1905-non-intelligent.md
+#       - ESSAY/Articles/1901-go-to-thu.md
+#       - ESSAY/Articles/1811-do-it.md
+#       - ESSAY/Articles/1808-ideality-and-reality.md
+#       - ESSAY/Articles/1806-apply-thu.md
+#       - ESSAY/Articles/18-tree.md
+#       - ESSAY/Articles/18-what-i-love.md
+#       - ESSAY/Articles/17-dream-2017.md
+#       - ESSAY/Articles/14-affection-1.md
+#   - æˆ‘:
+#     - ME/index.md
+#     - ME/introduction.md
+#     - ME/profile.md
+#     - ME/contact.md
+#     - ME/account.md
+#     - ME/description.md
+#     - ME/ability.md
+#     - ME/experience.md
+#     - ME/thu-curriculum.md
+#     - ME/thu-certificate.md
+#     - ME/daily-necessities.md
+#     - ME/girlfriend.md
+#     - ME/support.md
 
-# [UI]
-## [top]
-theme:
-  name: material
-  palette:
-    - scheme: default # ÈÕ¼äÄ£Ê½
-      primary: indigo # ÉÏ·½µÄ
-      accent: orange # Á´½ÓµÈ¿É½»»¥Ôª¼şµÄ¸ßÁÁÉ«
-      toggle:
-        icon: material/weather-night # Í¼±ê
-        name: ÇĞ»»ÖÁÒ¹¼äÄ£Ê½ # Êó±êĞü¸¡ÌáÊ¾
-    - scheme: slate # Ò¹¼äÄ£Ê½
-      primary: indigo
-      accent: orange
-      toggle:
-        icon: material/weather-sunny
-        name: ÇĞ»»ÖÁÈÕ¼äÄ£Ê½
-  features:
-    - navigation.tabs # Ê¹ÓÃTabÀ´½øĞĞ·ÖÀà
-    - navigation.top # ·µ»Ø¶¥²¿µÄ°´Å¥ ÔÚÉÏ»¬Ê±³öÏÖ
-    - navigation.indexes # Tab»áÓĞÒ»¸öindex.md ¶ø²»ÊÇÔÚ´ò¿ªTabÊ±´ò¿ªµÚÒ»ÆªÎÄÕÂ
-    - navigation.expand # ´ò¿ªTabÊ±×ó²àÄ¿Â¼È«²¿Õ¹¿ª
-    - search.suggest # ËÑË÷ÊäÈëÒ»Ğ©×ÖÄ¸Ê±ÍÆ¼ö²¹È«Õû¸öµ¥´Ê
-    - search.highlight # ËÑË÷³öµÄÎÄÕÂ¹Ø¼ü´Ê¼ÓÈë¸ßÁÁ
-    - content.code.copy # ¿ÉÒÔÍ¨¹ı°´Å¥¸´ÖÆ´úÂë
-    - content.action.edit # µã»÷°´Å¥Ìø×ªµ½±à¼­Ò³Ãæ  ĞèÒª½áºÏ edit_uri Ò»ÆğÊ¹ÓÃ
-  language: zh # Ò»Ğ©ÌáÊ¾ĞÔµÄÎÄ×Ö»á±ä³ÉÖĞÎÄ
-  icon:
-    repo: fontawesome/brands/github
-edit_uri: edit/main/docs # ±à¼­°´Å¥Ìø×ªµÄÁ´½Ó
-## [top-right corner]
-repo_url: https://github.com/Yang-Xijie/yang-xijie.github.io # ÓÒÉÏ½Çµã»÷Ìø×ªµÄÁ´½Ó
-repo_name: yang-xijie.github.io # ÓÒÉÏ½ÇµÄÃû×Ö
-## [bottom-left corner]
-copyright: ÑîÏ£½Ü CC-BY-4.0 # ×óÏÂ½ÇµÄ°æÈ¨ÉùÃ÷
-## [bottom-right corner]
-extra:
-  social: # icons
-    - icon: fontawesome/brands/bilibili
-      link: https://space.bilibili.com/24502827
-      name: Bilibili | ÑîÏ£½Ü619 # Êó±êĞü¸¡ÌáÊ¾
-    - icon: fontawesome/brands/github
-      link: https://github.com/Yang-Xijie
-      name: GitHub | Yang-Xijie
+# # [UI]
+# ## [top]
+# theme:
+#   name: material
+#   palette:
+#     - scheme: default # æ—¥é—´æ¨¡å¼
+#       primary: indigo # ä¸Šæ–¹çš„
+#       accent: orange # é“¾æ¥ç­‰å¯äº¤äº’å…ƒä»¶çš„é«˜äº®è‰²
+#       toggle:
+#         icon: material/weather-night # å›¾æ ‡
+#         name: åˆ‡æ¢è‡³å¤œé—´æ¨¡å¼ # é¼ æ ‡æ‚¬æµ®æç¤º
+#     - scheme: slate # å¤œé—´æ¨¡å¼
+#       primary: indigo
+#       accent: orange
+#       toggle:
+#         icon: material/weather-sunny
+#         name: åˆ‡æ¢è‡³æ—¥é—´æ¨¡å¼
+#   features:
+#     - navigation.tabs # ä½¿ç”¨Tabæ¥è¿›è¡Œåˆ†ç±»
+#     - navigation.top # è¿”å›é¡¶éƒ¨çš„æŒ‰é’® åœ¨ä¸Šæ»‘æ—¶å‡ºç°
+#     - navigation.indexes # Tabä¼šæœ‰ä¸€ä¸ªindex.md è€Œä¸æ˜¯åœ¨æ‰“å¼€Tabæ—¶æ‰“å¼€ç¬¬ä¸€ç¯‡æ–‡ç« 
+#     - navigation.expand # æ‰“å¼€Tabæ—¶å·¦ä¾§ç›®å½•å…¨éƒ¨å±•å¼€
+#     - search.suggest # æœç´¢è¾“å…¥ä¸€äº›å­—æ¯æ—¶æ¨èè¡¥å…¨æ•´ä¸ªå•è¯
+#     - search.highlight # æœç´¢å‡ºçš„æ–‡ç« å…³é”®è¯åŠ å…¥é«˜äº®
+#     - content.code.copy # å¯ä»¥é€šè¿‡æŒ‰é’®å¤åˆ¶ä»£ç 
+#     - content.action.edit # ç‚¹å‡»æŒ‰é’®è·³è½¬åˆ°ç¼–è¾‘é¡µé¢  éœ€è¦ç»“åˆ edit_uri ä¸€èµ·ä½¿ç”¨
+#   language: zh # ä¸€äº›æç¤ºæ€§çš„æ–‡å­—ä¼šå˜æˆä¸­æ–‡
+#   icon:
+#     repo: fontawesome/brands/github
+# edit_uri: edit/main/docs # ç¼–è¾‘æŒ‰é’®è·³è½¬çš„é“¾æ¥
+# ## [top-right corner]
+# repo_url: https://github.com/Yang-Xijie/yang-xijie.github.io # å³ä¸Šè§’ç‚¹å‡»è·³è½¬çš„é“¾æ¥
+# repo_name: yang-xijie.github.io # å³ä¸Šè§’çš„åå­—
+# ## [bottom-left corner]
+# copyright: æ¨å¸Œæ° CC-BY-4.0 # å·¦ä¸‹è§’çš„ç‰ˆæƒå£°æ˜
+# ## [bottom-right corner]
+# extra:
+#   social: # icons
+#     - icon: fontawesome/brands/bilibili
+#       link: https://space.bilibili.com/24502827
+#       name: Bilibili | æ¨å¸Œæ°619 # é¼ æ ‡æ‚¬æµ®æç¤º
+#     - icon: fontawesome/brands/github
+#       link: https://github.com/Yang-Xijie
+#       name: GitHub | Yang-Xijie
 
-# [Extensions]
-plugins:
-  - search: # ÏÖÔÚ»¹²»Ö§³ÖÖĞÎÄËÑË÷ Ö§³ÖÖ®ºó¿ÉÒÔÉèÖÃÓïÑÔ
-    # insiderÒÑ¾­Ö§³ÖÖĞÎÄµÄ·Ö´ÊËÑË÷ÁË https://squidfunk.github.io/mkdocs-material/blog/2022/chinese-search-support/
-      lang:
-        - en
-        - ja
-  - tags # ¸øµ¥ÆªÎÄÕÂÌí¼Ó±êÇ© https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/?h=tags
-markdown_extensions:
-  - pymdownx.arithmatex: # ÊıÑ§¹«Ê½Ö§³Ö
-      generic: true
-  - attr_list # ¸øÍ¼Æ¬ºóÃæÌí¼Ó{width="300"}ÉèÖÃ´óĞ¡
-  - toc:
-      permalink: true # ¹Ì¶¨±êÌâÎ»ÖÃÎªµ±Ç°Î»ÖÃ
-  - pymdownx.highlight: # ´úÂë¿é¸ßÁÁ
-      # linenums: true # ÏÔÊ¾ĞĞºÅ
-      # auto_title: true # ÏÔÊ¾±à³ÌÓïÑÔÃû³Æ
-  - pymdownx.superfences # ´úÂë¿é¸ßÁÁ²å¼ş
-  - meta # Ö§³ÖMarkdownÎÄ¼şÉÏ·½×Ô¶¨Òå±êÌâ±êÇ©µÈ
-  - admonition # https://squidfunk.github.io/mkdocs-material/reference/admonitions/#inline-blocks
-  - pymdownx.details # admonitionĞèÒª
+# # [Extensions]
+# plugins:
+#   - search: # ç°åœ¨è¿˜ä¸æ”¯æŒä¸­æ–‡æœç´¢ æ”¯æŒä¹‹åå¯ä»¥è®¾ç½®è¯­è¨€
+#     # insiderå·²ç»æ”¯æŒä¸­æ–‡çš„åˆ†è¯æœç´¢äº† https://squidfunk.github.io/mkdocs-material/blog/2022/chinese-search-support/
+#       lang:
+#         - en
+#         - ja
+#   - tags # ç»™å•ç¯‡æ–‡ç« æ·»åŠ æ ‡ç­¾ https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/?h=tags
+# markdown_extensions:
+#   - pymdownx.arithmatex: # æ•°å­¦å…¬å¼æ”¯æŒ
+#       generic: true
+#   - attr_list # ç»™å›¾ç‰‡åé¢æ·»åŠ {width="300"}è®¾ç½®å¤§å°
+#   - toc:
+#       permalink: true # å›ºå®šæ ‡é¢˜ä½ç½®ä¸ºå½“å‰ä½ç½®
+#   - pymdownx.highlight: # ä»£ç å—é«˜äº®
+#       # linenums: true # æ˜¾ç¤ºè¡Œå·
+#       # auto_title: true # æ˜¾ç¤ºç¼–ç¨‹è¯­è¨€åç§°
+#   - pymdownx.superfences # ä»£ç å—é«˜äº®æ’ä»¶
+#   - meta # æ”¯æŒMarkdownæ–‡ä»¶ä¸Šæ–¹è‡ªå®šä¹‰æ ‡é¢˜æ ‡ç­¾ç­‰
+#   - admonition # https://squidfunk.github.io/mkdocs-material/reference/admonitions/#inline-blocks
+#   - pymdownx.details # admonitionéœ€è¦
 
-extra_javascript:
-  # ÊıÑ§¹«Ê½Ö§³Ö
-  # https://squidfunk.github.io/mkdocs-material/reference/math/#katex
-  - mkdocs/javascripts/katex.js
-  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js  
-  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
-extra_css:
-  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
-  - mkdocs/css/no-footer.css # ²»Ê¹ÓÃµ×²¿µÄ·­Ò³
-  - mkdocs/css/unordered-list-symbols.css # multiplt unordered list symbols
+# extra_javascript:
+#   # æ•°å­¦å…¬å¼æ”¯æŒ
+#   # https://squidfunk.github.io/mkdocs-material/reference/math/#katex
+#   - mkdocs/javascripts/katex.js
+#   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js  
+#   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
+# extra_css:
+#   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
+#   - mkdocs/css/no-footer.css # ä¸ä½¿ç”¨åº•éƒ¨çš„ç¿»é¡µ
+#   - mkdocs/css/unordered-list-symbols.css # multiplt unordered list symbols
