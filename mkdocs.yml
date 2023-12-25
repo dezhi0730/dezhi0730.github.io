@@ -24,8 +24,7 @@ nav:
     - DIARY/index.md
     - '2023':
       - '12':
-        - '2023-12-25':
-          - DIARY/2023/12/2023-12-25.md
+        - DIARY/2023/12/2023-12-25.md
     
   - 转载:
     - REPRODUCE/index.md
