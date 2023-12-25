@@ -1,3 +1,8 @@
+---
+hide:
+  - feedback
+---
+
 # 你好
 
 这里是吴德志的个人网站 <https://dezhi0730.github.io>
