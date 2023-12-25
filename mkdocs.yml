@@ -22,7 +22,9 @@ nav:
     
   - 日记:
     - DIARY/index.md
-    - DIARY/interests.md
+    - 2023
+      - 12
+        - DIARY/2023-12-25.md
     
   - 转载:
     - REPRODUCE/index.md
