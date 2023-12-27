@@ -8,10 +8,8 @@ site_description: 吴德志的个人网站
 nav:
   - 博客:
     - BLOG/index.md
-    - BLOG/others.md
-    - 代码:
-      - BLOG/Apple/mac-recommend.md
-      - BLOG/Apple/ipad-recommend.md
+    - 环境:
+      - /BLOG/ENV/py.md
     - 科研:
       - BLOG/macOS/tree.md
       - BLOG/macOS/zoom.md
