@@ -205,6 +205,7 @@ plugins:
         - en
         - ja
   - tags # 给单篇文章添加标签 https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/?h=tags
+  - glightbox
 markdown_extensions:
   - pymdownx.arithmatex: # 数学公式支持
       generic: true
@@ -218,6 +219,7 @@ markdown_extensions:
   - meta # 支持Markdown文件上方自定义标题标签等
   - admonition # https://squidfunk.github.io/mkdocs-material/reference/admonitions/#inline-blocks
   - pymdownx.details # admonition需要
+  - md_in_html
 
 extra_javascript:
   # 数学公式支持
