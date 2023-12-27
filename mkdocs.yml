@@ -9,7 +9,7 @@ nav:
   - 博客:
     - BLOG/index.md
     - 环境:
-      - /BLOG/ENV/py.md
+      - BLOG/ENV/py.md
     - 科研:
       - BLOG/macOS/tree.md
       - BLOG/macOS/zoom.md
