@@ -17,7 +17,7 @@ nav:
       - BLOG/macOS/mad.md
       - BLOG/macOS/stream.md
       - BLOG/macOS/intel-windows.md
-    - BUG:
+    - 'BUG':
      - BLOG/BUG/2024-2-25-1.md
      - BLOG/BUG/2024-2-25-2.md
      - BLOG/BUG/2024-2-26-1.md
