@@ -11,16 +11,10 @@ nav:
     - 环境:
       - BLOG/ENV/py.md
     - 科研:
-      - BLOG/macOS/tree.md
-      - BLOG/macOS/zoom.md
-      - BLOG/macOS/sharing-mac-android.md
-      - BLOG/macOS/mad.md
-      - BLOG/macOS/stream.md
-      - BLOG/macOS/intel-windows.md
-    - 'BUG':
-     - BLOG/BUG/2024-2-25-1.md
-     - BLOG/BUG/2024-2-25-2.md
-     - BLOG/BUG/2024-2-26-1.md
+    - BUG:
+      - BLOG/BUG/2024-2-25-1.md
+      - BLOG/BUG/2024-2-25-2.md
+      - BLOG/BUG/2024-2-26-1.md
     
   - 日记:
     - DIARY/index.md
