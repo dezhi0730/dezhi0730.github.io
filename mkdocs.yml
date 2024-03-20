@@ -1,8 +1,8 @@
 # [Info]
-site_name: 吴德志的个人网站 # 左上角标题
+site_name: Eason.Wu的个人网站 # 左上角标题
 site_url: https://dezhi0730.github.io
-site_author: 吴德志
-site_description: 吴德志的个人网站
+site_author: Eason.Wu
+site_description: Eason.Wu的个人网站
 
 # [Navigtion]
 nav:
@@ -16,6 +16,8 @@ nav:
       - BLOG/BUG/2024-2-25-1.md
       - BLOG/BUG/2024-2-25-2.md
       - BLOG/BUG/2024-2-26-1.md
+      - BLOG/BUG/2024-3-1-1.md
+      - BLOG/BUG/2024-3-16.md
     
   - 日记:
     - DIARY/index.md
