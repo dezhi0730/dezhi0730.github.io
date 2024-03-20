@@ -18,6 +18,8 @@ nav:
       - BLOG/BUG/2024-2-26-1.md
       - BLOG/BUG/2024-3-1-1.md
       - BLOG/BUG/2024-3-16.md
+    - INV:
+      - INV/cb.md
     
   - 日记:
     - DIARY/index.md
